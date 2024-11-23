@@ -1,0 +1,60 @@
+ 3. Martin Scorsese
+1. Goodfellas  
+   - Genre: Biography, Crime, Drama  
+   - Lead Actors: Robert De Niro, Ray Liotta, Joe Pesci  
+   - IMDb Rating: 8.7  
+   - Release Date: September 19, 1990  
+
+2. The Departed  
+   - Genre: Crime, Drama, Thriller  
+   - Lead Actors: Leonardo DiCaprio, Matt Damon, Jack Nicholson  
+   - IMDb Rating: 8.5  
+   - Release Date: October 6, 2006  
+
+3. Raging Bull  
+   - Genre: Biography, Drama, Sport  
+   - Lead Actors: Robert De Niro, Joe Pesci  
+   - IMDb Rating: 8.2  
+   - Release Date: November 14, 1980  
+
+4. Taxi Driver  
+   - Genre: Crime, Drama  
+   - Lead Actors: Robert De Niro, Jodie Foster  
+   - IMDb Rating: 8.2  
+   - Release Date: February 8, 1976  
+
+5. The Wolf of Wall Street  
+   - Genre: Biography, Crime, Drama  
+   - Lead Actors: Leonardo DiCaprio, Jonah Hill, Margot Robbie  
+   - IMDb Rating: 8.2  
+   - Release Date: December 25, 2013  
+
+6. Casino  
+   - Genre: Crime, Drama  
+   - Lead Actors: Robert De Niro, Sharon Stone, Joe Pesci  
+   - IMDb Rating: 8.2  
+   - Release Date: November 22, 1995  
+
+7. Shutter Island  
+   - Genre: Mystery, Thriller  
+   - Lead Actors: Leonardo DiCaprio, Mark Ruffalo  
+   - IMDb Rating: 8.2  
+   - Release Date: February 19, 2010  
+
+8. The Irishman  
+   - Genre: Biography, Crime, Drama  
+   - Lead Actors: Robert De Niro, Al Pacino, Joe Pesci  
+   - IMDb Rating: 7.8  
+   - Release Date: November 27, 2019  
+
+9. Gangs of New York  
+   - Genre: Crime, Drama  
+   - Lead Actors: Leonardo DiCaprio, Daniel Day-Lewis, Cameron Diaz  
+   - IMDb Rating: 7.5  
+   - Release Date: December 20, 2002  
+
+10. The Aviator  
+    - Genre: Biography, Drama  
+    - Lead Actors: Leonardo DiCaprio, Cate Blanchett, Kate Beckinsale  
+    - IMDb Rating: 7.5  
+    - Release Date: December 25, 2004  

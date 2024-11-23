@@ -1,0 +1,51 @@
+Brad Pitt
+
+1. Fight Club (1999)  
+   - Genre: Drama  
+   - Director: David Fincher  
+   - IMDb: 8.8
+
+2. Se7en (1995)  
+   - Genre: Crime, Drama, Mystery  
+   - Director: David Fincher  
+   - IMDb: 8.6
+
+3. Inglourious Basterds (2009)  
+   - Genre: Adventure, Drama, War  
+   - Director: Quentin Tarantino  
+   - IMDb: 8.3
+
+4. The Curious Case of Benjamin Button (2008)  
+   - Genre: Drama, Fantasy, Romance  
+   - Director: David Fincher  
+   - IMDb: 7.8
+
+5. Once Upon a Time... in Hollywood (2019)  
+   - Genre: Comedy, Drama  
+   - Director: Quentin Tarantino  
+   - IMDb: 7.6
+
+6. Moneyball (2011)  
+   - Genre: Biography, Drama, Sport  
+   - Director: Bennett Miller  
+   - IMDb: 7.6
+
+7. 12 Monkeys (1995)  
+   - Genre: Mystery, Sci-Fi, Thriller  
+   - Director: Terry Gilliam  
+   - IMDb: 8.0
+
+8. World War Z (2013)  
+   - Genre: Action, Adventure, Horror  
+   - Director: Marc Forster  
+   - IMDb: 7.0
+
+9. Troy (2004)  
+   - Genre: Action, Drama  
+   - Director: Wolfgang Petersen  
+   - IMDb: 7.3
+
+10. Ocean’s Eleven (2001)  
+   - Genre: Crime, Thriller  
+   - Director: Steven Soderbergh  
+   - IMDb: 7.7

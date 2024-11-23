@@ -1,0 +1,61 @@
+Top 10 Hollywood Drama Movies 
+
+1. The Shawshank Redemption  
+   - Director: Frank Darabont  
+   - Lead Actors: Tim Robbins, Morgan Freeman  
+   - IMDb Rating: 9.3  
+   - Release Date: September 23, 1994  
+
+2. Forrest Gump  
+   - Director: Robert Zemeckis  
+   - Lead Actors: Tom Hanks, Robin Wright  
+   - IMDb Rating: 8.8  
+   - Release Date: July 6, 1994  
+
+3. Fight Club  
+   - Director: David Fincher  
+   - Lead Actors: Brad Pitt, Edward Norton  
+   - IMDb Rating: 8.8  
+   - Release Date: October 15, 1999  
+
+4. Schindler’s List  
+   - Director: Steven Spielberg  
+   - Lead Actors: Liam Neeson, Ben Kingsley  
+   - IMDb Rating: 9.0  
+   - Release Date: December 15, 1993  
+
+5. The Godfather  
+   - Director: Francis Ford Coppola  
+   - Lead Actors: Marlon Brando, Al Pacino  
+   - IMDb Rating: 9.2  
+   - Release Date: March 24, 1972  
+
+6. The Godfather: Part II  
+   - Director: Francis Ford Coppola  
+   - Lead Actors: Al Pacino, Robert De Niro  
+   - IMDb Rating: 9.0  
+   - Release Date: December 20, 1974  
+
+7. The Green Mile  
+   - Director: Frank Darabont  
+   - Lead Actors: Tom Hanks, Michael Clarke Duncan  
+   - IMDb Rating: 8.6  
+   - Release Date: December 10, 1999  
+
+8. Saving Private Ryan  
+   - Director: Steven Spielberg  
+   - Lead Actors: Tom Hanks, Matt Damon  
+   - IMDb Rating: 8.6  
+   - Release Date: July 24, 1998  
+
+9. 12 Years a Slave  
+   - Director: Steve McQueen  
+   - Lead Actors: Chiwetel Ejiofor, Michael Fassbender  
+   - IMDb Rating: 8.1  
+   - Release Date: October 18, 2013  
+
+10. The Pursuit of Happyness  
+   - Director: Gabriele Muccino  
+   - Lead Actors: Will Smith, Jaden Smith  
+   - IMDb Rating: 8.0  
+   - Release Date: December 15, 2006  

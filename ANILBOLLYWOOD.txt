@@ -1,0 +1,50 @@
+1  Slumdog Millionaire (2008)
+•	Genre: Drama, Romance, Thriller
+•	Director: Danny Boyle
+•	Ratings: 8.0/10
+•	Year of Release: 2008
+2  Mr. India (1987)
+•	Genre: Action, Comedy, Sci-Fi
+•	Director: Shekhar Kapur
+•	Ratings: 7.2/10
+•	Year of Release: 1987
+3  Ram Lakhan (1989)
+•	Genre: Action, Drama
+•	Director: Subhash Ghai
+•	Ratings: 7.1/10
+•	Year of Release: 1989
+4  Dil Dhadakne Do (2015)
+•	Genre: Comedy, Drama
+•	Director: Zoya Akhtar
+•	Ratings: 7.5/10
+•	Year of Release: 2015
+5  Welcome (2007)
+•	Genre: Comedy, Crime
+•	Director: Anees Bazmee
+•	Ratings: 7.0/10
+•	Year of Release: 2007
+6  Andaz (1971)
+•	Genre: Drama, Romance
+•	Director: Ramesh Sippy
+•	Ratings: 7.0/10
+•	Year of Release: 1971
+7 Tezaab (1988)
+•	Genre: Action, Drama, Romance
+•	Director: N. Chandra
+•	Ratings: 6.8/10
+•	Year of Release: 1988
+8 Judai (1997)
+•	Genre: Drama, Romance
+•	Director: Raj Kanwar
+•	Ratings: 6.6/10
+•	Year of Release: 1997
+9  Race (2008)
+•	Genre: Action, Thriller
+•	Director: Abbas-Mustan
+•	Ratings: 6.6/10
+•	Year of Release: 2008
+10  No Entry (2005)
+•	Genre: Comedy, Romance
+•	Director: Anees Bazmee
+•	Ratings: 6.0/10
+•	Year of Release: 2005

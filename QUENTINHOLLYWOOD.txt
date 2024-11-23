@@ -1,0 +1,60 @@
+ 1. Quentin Tarantino
+1. Pulp Fiction  
+   - Genre: Crime, Drama  
+   - Lead Actors: John Travolta, Uma Thurman, Samuel L. Jackson  
+   - IMDb Rating: 8.9  
+   - Release Date: October 14, 1994  
+
+2. Inglourious Basterds  
+   - Genre: Adventure, Drama, War  
+   - Lead Actors: Brad Pitt, Christoph Waltz, Michael Fassbender  
+   - IMDb Rating: 8.3  
+   - Release Date: August 21, 2009  
+
+3. Django Unchained  
+   - Genre: Drama, Western  
+   - Lead Actors: Jamie Foxx, Christoph Waltz, Leonardo DiCaprio  
+   - IMDb Rating: 8.5  
+   - Release Date: December 25, 2012  
+
+4. Kill Bill: Vol. 1  
+   - Genre: Action, Crime, Thriller  
+   - Lead Actors: Uma Thurman, Lucy Liu, Michael Madsen  
+   - IMDb Rating: 8.1  
+   - Release Date: October 10, 2003  
+
+5. Kill Bill: Vol. 2  
+   - Genre: Action, Crime, Drama  
+   - Lead Actors: Uma Thurman, David Carradine, Daryl Hannah  
+   - IMDb Rating: 8.0  
+   - Release Date: April 16, 2004  
+
+6. Once Upon a Time in Hollywood  
+   - Genre: Comedy, Drama  
+   - Lead Actors: Leonardo DiCaprio, Brad Pitt, Margot Robbie  
+   - IMDb Rating: 7.6  
+   - Release Date: July 26, 2019  
+
+7. The Hateful Eight  
+   - Genre: Crime, Drama, Mystery  
+   - Lead Actors: Samuel L. Jackson, Kurt Russell, Jennifer Jason Leigh  
+   - IMDb Rating: 7.8  
+   - Release Date: December 30, 2015  
+
+8. Death Proof  
+   - Genre: Action, Thriller  
+   - Lead Actors: Kurt Russell, Zoë Bell, Rosario Dawson  
+   - IMDb Rating: 7.0  
+   - Release Date: May 22, 2007  
+
+9. Jackie Brown  
+   - Genre: Crime, Drama, Thriller  
+   - Lead Actors: Pam Grier, Samuel L. Jackson, Robert Forster  
+   - IMDb Rating: 7.5  
+   - Release Date: December 25, 1997  
+
+10. Reservoir Dogs  
+    - Genre: Crime, Drama, Thriller  
+    - Lead Actors: Harvey Keitel, Tim Roth, Michael Madsen  
+    - IMDb Rating: 8.3  
+    - Release Date: September 2, 1992  

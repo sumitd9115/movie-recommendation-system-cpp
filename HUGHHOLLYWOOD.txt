@@ -1,0 +1,51 @@
+Hugh Jackman
+
+1. Logan (2017)  
+   - Genre: Action, Drama, Sci-Fi  
+   - Director: James Mangold  
+   - IMDb: 8.1
+
+2. The Prestige (2006)  
+   - Genre: Drama, Mystery, Sci-Fi  
+   - Director: Christopher Nolan  
+   - IMDb: 8.5
+
+3. Les Misérables (2012)  
+   - Genre: Drama, Musical, Romance  
+   - Director: Tom Hooper  
+   - IMDb: 7.5
+
+4. Prisoners (2013)  
+   - Genre: Crime, Drama, Mystery  
+   - Director: Denis Villeneuve  
+   - IMDb: 8.1
+
+5. The Greatest Showman (2017)  
+   - Genre: Biography, Drama, Musical  
+   - Director: Michael Gracey  
+   - IMDb: 7.5
+
+6. X-Men: Days of Future Past (2014)  
+   - Genre: Action, Adventure, Sci-Fi  
+   - Director: Bryan Singer  
+   - IMDb: 7.9
+
+7. Real Steel (2011)  
+   - Genre: Action, Drama, Sci-Fi  
+   - Director: Shawn Levy  
+   - IMDb: 7.1
+
+8. Australia (2008)  
+   - Genre: Adventure, Drama, Romance  
+   - Director: Baz Luhrmann  
+   - IMDb: 6.6
+
+9. The Fountain (2006)  
+   - Genre: Drama, Mystery, Romance  
+   - Director: Darren Aronofsky  
+   - IMDb: 7.2
+
+10. X-Men (2000)  
+   - Genre: Action, Adventure, Sci-Fi  
+   - Director: Bryan Singer  
+   - IMDb: 7.4

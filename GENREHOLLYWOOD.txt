@@ -1,0 +1,7 @@
+Horror
+SciFi
+Action
+Drama
+Romance
+Comedy
+Thriller

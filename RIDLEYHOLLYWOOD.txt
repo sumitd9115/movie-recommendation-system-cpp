@@ -1,0 +1,61 @@
+ 5. Ridley Scott
+
+1. Gladiator  
+   - Genre: Action, Adventure, Drama  
+   - Lead Actors: Russell Crowe, Joaquin Phoenix, Connie Nielsen  
+   - IMDb Rating: 8.5  
+   - Release Date: May 5, 2000  
+
+2. Blade Runner  
+   - Genre: Action, Drama, Sci-Fi  
+   - Lead Actors: Harrison Ford, Rutger Hauer, Sean Young  
+   - IMDb Rating: 8.1  
+   - Release Date: June 25, 1982  
+
+3. The Martian  
+   - Genre: Adventure, Drama, Sci-Fi  
+   - Lead Actors: Matt Damon, Jessica Chastain, Kristen Wiig  
+   - IMDb Rating: 8.0  
+   - Release Date: October 2, 2015  
+
+4. Black Hawk Down  
+   - Genre: Action, Drama, History  
+   - Lead Actors: Josh Hartnett, Ewan McGregor, Tom Sizemore  
+   - IMDb Rating: 7.7  
+   - Release Date: December 28, 2001  
+
+5. American Gangster  
+   - Genre: Biography, Crime, Drama  
+   - Lead Actors: Denzel Washington, Russell Crowe  
+   - IMDb Rating: 7.8  
+   - Release Date: November 2, 2007  
+
+6. Thelma & Louise  
+   - Genre: Adventure, Crime, Drama  
+   - Lead Actors: Susan Sarandon, Geena Davis  
+   - IMDb Rating: 7.5  
+   - Release Date: May 24, 1991  
+
+7. Prometheus  
+   - Genre: Adventure, Mystery, Sci-Fi  
+   - Lead Actors: Noomi Rapace, Logan Marshall-Green  
+   - IMDb Rating: 7.0  
+   - Release Date: June 8, 2012  
+
+8. Kingdom of Heaven  
+   - Genre: Action, Adventure, Drama  
+   - Lead Actors: Orlando Bloom, Eva Green, Liam Neeson  
+   - IMDb Rating: 7.2  
+   - Release Date: May 6, 2005  
+
+9. Alien: Covenant  
+   - Genre: Horror, Sci-Fi, Thriller  
+   - Lead Actors: Michael Fassbender, Katherine Waterston  
+   - IMDb Rating: 6.4  
+   - Release Date: May 19, 2017  
+
+10. Robin Hood  
+    - Genre: Action, Adventure, Drama  
+    - Lead Actors: Russell Crowe, Cate Blanchett  
+    - IMDb Rating: 6.6  
+    - Release Date: May 14, 2010  

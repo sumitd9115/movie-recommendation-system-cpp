@@ -1,0 +1,40 @@
+1  Sholay (1975)
+•	Genre: Action, Adventure, Drama
+•	Director: Ramesh Sippy
+•	Rating: 8.8/10
+2  Anand (1971)
+•	Genre: Drama
+•	Director: Hrishikesh Mukherjee
+•	Rating: 8.7/10
+3  Black (2005)
+•	Genre: Drama
+•	Director: Sanjay Leela Bhansali
+•	Rating: 8.2/10
+4  Deewar (1975)
+•	Genre: Action, Drama, Crime
+•	Director: Yash Chopra
+•	Rating: 8.2/10
+5  Pink (2016)
+•	Genre: Drama, Thriller
+•	Director: Aniruddha Roy Chowdhury
+•	Rating: 8.1/10
+6  Zanjeer (1973)
+•	Genre: Action, Crime, Drama
+•	Director: Prakash Mehra
+•	Rating: 7.7/10
+7  Don (1978)
+•	Genre: Action, Crime, Thriller
+•	Director: Chandra Barot
+•	Rating: 7.7/10
+8  Piku (2015)
+•	Genre: Comedy, Drama
+•	Director: Shoojit Sircar
+•	Rating: 7.6/10
+9  Sarkar (2005)
+•	Genre: Crime, Drama
+•	Director: Ram Gopal Varma
+•	Rating: 7.6/10
+10  Baghban (2003)
+•	Genre: Drama
+•	Director: Ravi Chopra
+•	Rating: 7.4/10

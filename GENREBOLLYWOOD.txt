@@ -1,0 +1,7 @@
+Action
+Drama
+Romance
+Comedy
+Thriller
+Horror
+Biographical

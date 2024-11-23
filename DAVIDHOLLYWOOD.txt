@@ -1,0 +1,61 @@
+ 4. David Fincher
+
+1. Fight Club  
+   - Genre: Drama  
+   - Lead Actors: Brad Pitt, Edward Norton, Helena Bonham Carter  
+   - IMDb Rating: 8.8  
+   - Release Date: October 15, 1999  
+
+2. Se7en  
+   - Genre: Crime, Drama, Mystery  
+   - Lead Actors: Morgan Freeman, Brad Pitt, Kevin Spacey  
+   - IMDb Rating: 8.6  
+   - Release Date: September 22, 1995  
+
+3. The Social Network  
+   - Genre: Biography, Drama  
+   - Lead Actors: Jesse Eisenberg, Andrew Garfield, Justin Timberlake  
+   - IMDb Rating: 7.8  
+   - Release Date: October 1, 2010  
+
+4. Gone Girl  
+   - Genre: Drama, Mystery, Thriller  
+   - Lead Actors: Ben Affleck, Rosamund Pike, Neil Patrick Harris  
+   - IMDb Rating: 8.1  
+   - Release Date: October 3, 2014  
+
+5. The Curious Case of Benjamin Button  
+   - Genre: Drama, Fantasy, Romance  
+   - Lead Actors: Brad Pitt, Cate Blanchett  
+   - IMDb Rating: 7.8  
+   - Release Date: December 25, 2008  
+
+6. Zodiac  
+   - Genre: Crime, Drama, Mystery  
+   - Lead Actors: Jake Gyllenhaal, Robert Downey Jr., Mark Ruffalo  
+   - IMDb Rating: 7.7  
+   - Release Date: March 2, 2007  
+
+7. The Game  
+   - Genre: Drama, Mystery, Thriller  
+   - Lead Actors: Michael Douglas, Sean Penn, Deborah Kara Unger  
+   - IMDb Rating: 7.7  
+   - Release Date: September 12, 1997  
+
+8. Panic Room  
+   - Genre: Crime, Drama, Thriller  
+   - Lead Actors: Jodie Foster, Kristen Stewart, Forest Whitaker  
+   - IMDb Rating: 6.8  
+   - Release Date: March 29, 2002  
+
+9. Alien 3  
+   - Genre: Action, Horror, Sci-Fi  
+   - Lead Actors: Sigourney Weaver, Charles S. Dutton, Charles Dance  
+   - IMDb Rating: 6.4  
+   - Release Date: May 22, 1992  
+
+10. Mank  
+    - Genre: Biography, Drama  
+    - Lead Actors: Gary Oldman, Amanda Seyfried, Lily Collins  
+    - IMDb Rating: 6.8  
+    - Release Date: December 4, 2020  

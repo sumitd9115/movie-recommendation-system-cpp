@@ -1,0 +1,50 @@
+1.	Saaransh (1984)
+o	Genre: Drama
+o	Lead Actors: Anupam Kher, Rohini Hattangadi
+o	Ratings: 8.3/10
+o	Year: 1984
+2.	Zakhm (1998)
+o	Genre: Drama, Social
+o	Lead Actors: Ajay Devgn, Pooja Bhatt, Sonali Bendre
+o	Ratings: 8.1/10
+o	Year: 1998
+3.	Arth (1982)
+o	Genre: Drama, Romance
+o	Lead Actors: Shabana Azmi, Kulbhushan Kharbanda, Smita Patil
+o	Ratings: 8.0/10
+o	Year: 1982
+4.	Sadak (1991)
+o	Genre: Romantic Thriller
+o	Lead Actors: Sanjay Dutt, Pooja Bhatt
+o	Ratings: 7.5/10
+o	Year: 1991
+5.	Dil Hai Ki Manta Nahin (1991)
+o	Genre: Romantic Comedy
+o	Lead Actors: Aamir Khan, Pooja Bhatt
+o	Ratings: 7.4/10
+o	Year: 1991
+6.	Naam (1986)
+o	Genre: Crime, Drama
+o	Lead Actors: Sanjay Dutt, Kumar Gaurav
+o	Ratings: 7.3/10
+o	Year: 1986
+7.	Aashiqui (1990)
+o	Genre: Musical Romance
+o	Lead Actors: Rahul Roy, Anu Aggarwal
+o	Ratings: 7.2/10
+o	Year: 1990
+8.	Jism (2003)
+o	Genre: Thriller, Romance
+o	Lead Actors: John Abraham, Bipasha Basu
+o	Ratings: 7.1/10
+o	Year: 2003
+9.	Hum Hain Rahi Pyar Ke (1993)
+o	Genre: Comedy, Drama
+o	Lead Actors: Aamir Khan, Juhi Chawla
+o	Ratings: 7.0/10
+o	Year: 1993
+10.	Kaash (1987)
+•	Genre: Drama
+•	Lead Actors: Jackie Shroff, Dimple Kapadia
+•	Ratings: 6.9/10
+•	Year: 1987

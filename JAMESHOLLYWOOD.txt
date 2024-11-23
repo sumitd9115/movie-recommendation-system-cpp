@@ -1,0 +1,60 @@
+2. James Cameron
+1. Terminator 2: Judgment Day  
+   - Genre: Action, Sci-Fi  
+   - Lead Actors: Arnold Schwarzenegger, Linda Hamilton, Edward Furlong  
+   - IMDb Rating: 8.6  
+   - Release Date: July 3, 1991  
+
+2. Aliens  
+   - Genre: Action, Adventure, Sci-Fi  
+   - Lead Actors: Sigourney Weaver, Michael Biehn, Carrie Henn  
+   - IMDb Rating: 8.4  
+   - Release Date: July 18, 1986  
+
+3. Avatar  
+   - Genre: Action, Adventure, Fantasy  
+   - Lead Actors: Sam Worthington, Zoe Saldana, Sigourney Weaver  
+   - IMDb Rating: 7.9  
+   - Release Date: December 18, 2009  
+
+4. Titanic  
+   - Genre: Drama, Romance  
+   - Lead Actors: Leonardo DiCaprio, Kate Winslet  
+   - IMDb Rating: 7.9  
+   - Release Date: December 19, 1997  
+
+5. The Abyss  
+   - Genre: Adventure, Drama, Sci-Fi  
+   - Lead Actors: Ed Harris, Mary Elizabeth Mastrantonio, Michael Biehn  
+   - IMDb Rating: 7.5  
+   - Release Date: August 9, 1989  
+
+6. True Lies  
+   - Genre: Action, Comedy, Thriller  
+   - Lead Actors: Arnold Schwarzenegger, Jamie Lee Curtis  
+   - IMDb Rating: 7.3  
+   - Release Date: July 15, 1994  
+
+7. Terminator  
+   - Genre: Action, Sci-Fi  
+   - Lead Actors: Arnold Schwarzenegger, Linda Hamilton  
+   - IMDb Rating: 8.1  
+   - Release Date: October 26, 1984  
+
+8. Piranha II: The Spawning  
+   - Genre: Horror, Sci-Fi  
+   - Lead Actors: Tricia O'Neil, Steve Marachuk  
+   - IMDb Rating: 3.7  
+   - Release Date: November 5, 1981  
+
+9. Avatar: The Way of Water  
+   - Genre: Action, Adventure, Fantasy  
+   - Lead Actors: Sam Worthington, Zoe Saldana, Sigourney Weaver  
+   - IMDb Rating: 7.6  
+   - Release Date: December 16, 2022  
+
+10. Dark Angel  
+    - Genre: Action, Drama  
+    - Lead Actors: Jessica Alba, Michael Weatherly  
+    - IMDb Rating: 7.4  
+    - Release Date: October 3, 2000  

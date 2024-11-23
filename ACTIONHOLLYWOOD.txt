@@ -1,0 +1,61 @@
+Top 10 Hollywood Action Movies 
+
+1. The Dark Knight  
+   - Director: Christopher Nolan  
+   - Lead Actors: Christian Bale, Heath Ledger  
+   - IMDb Rating: 9.0  
+   - Release Date: July 18, 2008  
+
+2. Inception  
+   - Director: Christopher Nolan  
+   - Lead Actors: Leonardo DiCaprio, Joseph Gordon-Levitt  
+   - IMDb Rating: 8.8  
+   - Release Date: July 16, 2010  
+
+3. The Matrix  
+   - Directors: Lana Wachowski, Lilly Wachowski  
+   - Lead Actors: Keanu Reeves, Laurence Fishburne  
+   - IMDb Rating: 8.7  
+   - Release Date: March 31, 1999  
+
+4. Mad Max: Fury Road  
+   - Director: George Miller  
+   - Lead Actors: Tom Hardy, Charlize Theron  
+   - IMDb Rating: 8.1  
+   - Release Date: May 15, 2015  
+
+5. Gladiator  
+   - Director: Ridley Scott  
+   - Lead Actors: Russell Crowe, Joaquin Phoenix  
+   - IMDb Rating: 8.5  
+   - Release Date: May 5, 2000  
+
+6. Die Hard  
+   - Director: John McTiernan  
+   - Lead Actors: Bruce Willis, Alan Rickman  
+   - IMDb Rating: 8.2  
+   - Release Date: July 15, 1988  
+
+7. Terminator 2: Judgment Day  
+   - Director: James Cameron  
+   - Lead Actors: Arnold Schwarzenegger, Linda Hamilton  
+   - IMDb Rating: 8.6  
+   - Release Date: July 3, 1991  
+
+8. The Avengers  
+   - Director: Joss Whedon  
+   - Lead Actors: Robert Downey Jr., Chris Evans  
+   - IMDb Rating: 8.0  
+   - Release Date: May 4, 2012  
+
+9. John Wick  
+   - Director: Chad Stahelski  
+   - Lead Actors: Keanu Reeves, Michael Nyqvist  
+   - IMDb Rating: 7.4  
+   - Release Date: October 24, 2014  
+
+10. Casino Royale  
+   - Director: Martin Campbell  
+   - Lead Actors: Daniel Craig, Eva Green  
+   - IMDb Rating: 8.0  
+   - Release Date: November 17, 2006  

@@ -1,0 +1,40 @@
+1  Drishyam (2015)
+•	Genre: Crime, Drama, Thriller
+•	Director: Nishikant Kamat
+•	Rating: 8.2/10
+2  The Legend of Bhagat Singh (2002)
+•	Genre: Biography, Drama, History
+•	Director: Rajkumar Santoshi
+•	Rating: 8.1/10
+3  Company (2002)
+•	Genre: Crime, Drama, Thriller
+•	Director: Ram Gopal Varma
+•	Rating: 8.0/10
+4  Omkara (2006)
+•	Genre: Crime, Drama, Thriller
+•	Director: Vishal Bhardwaj
+•	Rating: 8.0/10
+5 Gangaajal (2003)
+•	Genre: Crime, Drama, Thriller
+•	Director: Prakash Jha
+•	Rating: 7.8/10
+6  Zakhm (1998)
+•	Genre: Drama
+•	Director: Mahesh Bhatt
+•	Rating: 7.9/10
+7 Tanhaji: The Unsung Warrior (2020)
+•	Genre: Action, Drama, History
+•	Director: Om Raut
+•	Rating: 7.6/10
+8  Raid (2018)
+•	Genre: Action, Crime, Drama
+•	Director: Raj Kumar Gupta
+•	Rating: 7.4/10
+9  Once Upon a Time in Mumbaai (2010)
+•	Genre: Crime, Drama, Thriller
+•	Director: Milan Luthria
+•	Rating: 7.4/10
+10  Singham (2011)
+•	Genre: Action, Crime, Drama
+•	Director: Rohit Shetty
+•	Rating: 6.8/10
