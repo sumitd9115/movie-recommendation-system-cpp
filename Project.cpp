@@ -11,11 +11,11 @@ void toUpperCase(string &str)
     transform(str.begin(), str.end(), str.begin(), ::toupper);
 }
 
-void write(const string &strrr) 
+void write(const string &strrr)
 {
     ofstream outputfile;
     string fileName = "fileName.txt";
-    outputfile.open(fileName , ::ios::app);
+    outputfile.open(fileName, ::ios::app);
     if (!outputfile.is_open())
     {
         cout << "Failed to open " << fileName << "." << endl;
@@ -27,26 +27,47 @@ void write(const string &strrr)
     cout << "User data saved successfully." << endl;
 }
 
-vector<string> vec; 
+vector<string> vec;
 
 template <typename T>
 void user_in(const T &inputt)
 {
     stringstream ss;
-    ss << inputt;  
-    vec.push_back(ss.str()); 
+    ss << inputt;
+    vec.push_back(ss.str());
 }
 
 void finalise_user_in()
 {
     stringstream vecContent;
 
-    for (const auto &s : vec) {
-        vecContent << s; 
+    for (const auto &s : vec)
+    {
+        vecContent << s;
     }
 
-    write(vecContent.str()); 
-    vec.clear(); 
+    write(vecContent.str());
+    vec.clear();
+}
+
+bool isValidName(const string &name)
+{
+    if (name.empty()) return false;
+    for (char c : name)
+        if (!isalpha(c)) return false;
+    return true;
+}
+
+bool isValidPassword(const string &password)
+{
+    return password.length() >= 6;
+}
+
+bool isValidFilmIndustry(const string &industry)
+{
+    string upper = industry;
+    toUpperCase(upper);
+    return (upper == "HOLLYWOOD" || upper == "BOLLYWOOD");
 }
 
 int login_cred_new()
@@ -54,70 +75,114 @@ int login_cred_new()
     string name;
     string password;
     cout << "Hey there! Welcome!" << endl;
-    cout << "Enter name: ";
-    cin >> name;
+
+    // Validate name
+    while (true)
+    {
+        cout << "Enter name (letters only): ";
+        cin >> name;
+        if (isValidName(name))
+            break;
+        cout << "Invalid name. Please use letters only (no spaces or numbers)." << endl;
+    }
+    toUpperCase(name);
     user_in(name);
-    cout << "Enter Password: ";
-    cin >> password;
+
+    // Validate password
+    while (true)
+    {
+        cout << "Enter Password (min 6 characters): ";
+        cin >> password;
+        if (isValidPassword(password))
+            break;
+        cout << "Password too short. Must be at least 6 characters." << endl;
+    }
     user_in(password);
 
-    toUpperCase(name);
+    finalise_user_in();
+
     return 0;
 }
 
-int searchLineByData(const string &fileName, string searchString, const string &name) {
-    toLowerCase(searchString);
+int searchLineByData(const string &fileName, const string &searchString, const string &name)
+{
     ifstream file(fileName);
     string line;
     int lineNumber = 0;
     bool found = false;
-    if (!file.is_open()) {
-        cout << "User Doesn't exist, would you like to still search? Y or N: " << endl;
+
+    if (!file.is_open())
+    {
+        cout << "User doesn't exist. Would you like to register? (Y/N): ";
         char ch;
-        cin >> ch;
-        if (ch == 'Y') {
+
+        // Validate Y/N input
+        while (true)
+        {
+            cin >> ch;
+            ch = toupper(ch);
+            if (ch == 'Y' || ch == 'N') break;
+            cout << "Invalid input. Please enter Y or N: ";
+        }
+
+        if (ch == 'Y')
+        {
             login_cred_new();
         }
         return -1;
     }
-    while (getline(file, line)) {
-        lineNumber++;
-        if (line.find(searchString) != string::npos) {
-            found = true;
-            cout << "Welcome Again, " << name << "!" << endl;
-            cout << "Previous searches of user were: \n" << line << endl;
-            user_in(searchString);
-            break;
-        }
-    }
+
     while (getline(file, line))
     {
         lineNumber++;
         if (line.find(searchString) != string::npos)
         {
-            found = true;
-            cout << line << endl;
+            if (!found)
+            {
+                found = true;
+                cout << "Welcome Again, " << name << "!" << endl;
+            }
+            else
+            {
+                cout << line << endl;
+            }
         }
     }
 
     file.close();
-    if (!found) {
+
+    if (!found)
+    {
         cout << "Data not found in the file." << endl;
         return -1;
     }
     return lineNumber;
 }
 
-
 int login_cred_existing()
 {
     string name;
     string password;
-    cout << "Enter name: ";
-    cin >> name;
-    cout << "Enter Password: ";
-    cin >> password;
-    
+
+    // Validate name
+    while (true)
+    {
+        cout << "Enter name (letters only): ";
+        cin >> name;
+        if (isValidName(name))
+            break;
+        cout << "Invalid name. Please use letters only (no spaces or numbers)." << endl;
+    }
+
+    // Validate password
+    while (true)
+    {
+        cout << "Enter Password (min 6 characters): ";
+        cin >> password;
+        if (isValidPassword(password))
+            break;
+        cout << "Password too short. Must be at least 6 characters." << endl;
+    }
 
     toUpperCase(name);
 
@@ -126,12 +191,11 @@ int login_cred_existing()
     return 0;
 }
 
-
 class User
 {
 public:
-    virtual void login() = 0; 
-    virtual void input() = 0; 
+    virtual void login() = 0;
+    virtual void input() = 0;
 };
 
 int open(int choice, string filmindustry)
@@ -177,11 +241,17 @@ int open(int choice, string filmindustry)
     inputfile.close();
 
     string choiceStr;
-    cout << "Enter your choice: ";
-    cin >> choiceStr;
+    // Validate that the user entered something non-empty
+    while (true)
+    {
+        cout << "Enter your choice: ";
+        cin >> choiceStr;
+        if (!choiceStr.empty()) break;
+        cout << "Input cannot be empty. Please try again." << endl;
+    }
     user_in(choiceStr);
     finalise_user_in();
-    
+
     toUpperCase(choiceStr);
     string movieFilename = choiceStr + filmindustry + ".txt";
 
@@ -203,72 +273,99 @@ int open(int choice, string filmindustry)
     return 0;
 }
 
-void getUserInput() 
+void getUserInput()
 {
-    cout << "Choose the film industry you want movies of: Hollywood or Bollywood" << endl;
     string filmindustry;
-    cin >> filmindustry;
+
+    // Validate film industry input
+    while (true)
+    {
+        cout << "Choose the film industry you want movies of (Hollywood / Bollywood): ";
+        cin >> filmindustry;
+        if (isValidFilmIndustry(filmindustry))
+            break;
+        cout << "Invalid choice. Please enter 'Hollywood' or 'Bollywood'." << endl;
+    }
     user_in(filmindustry);
     toUpperCase(filmindustry);
 
-    cout << "Enter Preference Number from below list: " << endl;
-    cout << "1. Genre\n2. Actor\n3. Director\n4. Releaseyear" << endl;
     int a;
-    cin >> a;
+    // Validate preference menu choice (1-4)
+    while (true)
+    {
+        cout << "Enter Preference Number from below list:" << endl;
+        cout << "1. Genre\n2. Actor\n3. Director\n4. Releaseyear" << endl;
+        if (cin >> a && a >= 1 && a <= 4)
+            break;
+        cin.clear();
+        cin.ignore(numeric_limits<streamsize>::max(), '\n');
+        cout << "Invalid choice. Please enter a number between 1 and 4." << endl;
+    }
     user_in(a);
-    open(a,filmindustry);
+    open(a, filmindustry);
 }
 
-class ExistingUser : public User {
+class ExistingUser : public User
+{
 public:
-    void login() override {
-        login_cred_existing(); 
+    void login() override
+    {
+        login_cred_existing();
     }
-    
-    void input() override {
-        getUserInput(); 
+
+    void input() override
+    {
+        getUserInput();
     }
 };
 
-class NewUser : public User {
+class NewUser : public User
+{
 public:
-    void login() override {
-        login_cred_new(); 
+    void login() override
+    {
+        login_cred_new();
     }
-    
-    void input() override {
-        getUserInput(); 
+
+    void input() override
+    {
+        getUserInput();
     }
 };
 
-
-int main() {
-
+int main()
+{
     int ch;
-    cout << "Are you a: " << endl;
-    cout << "1. Existing User?" << endl;
-    cout << "2. New User?" << endl;
-    cout << "Type '1' for Existing user and '2' for New user: ";
-    cin >> ch;
 
-    User* user = nullptr;
+    // Validate main menu choice (1-2)
+    while (true)
+    {
+        cout << "Are you a:" << endl;
+        cout << "1. Existing User?" << endl;
+        cout << "2. New User?" << endl;
+        cout << "Type '1' for Existing user and '2' for New user: ";
+        if (cin >> ch && (ch == 1 || ch == 2))
+            break;
+        cin.clear();
+        cin.ignore(numeric_limits<streamsize>::max(), '\n');
+        cout << "Invalid option. Please enter 1 or 2." << endl;
+    }
 
-    switch (ch) {
+    User *user = nullptr;
+
+    switch (ch)
+    {
     case 1:
         user = new ExistingUser();
         break;
     case 2:
         user = new NewUser();
         break;
-    default:
-        cout << "Invalid option." << endl;
-        return 1;
     }
 
-    user->login(); 
-    user->input(); 
+    user->login();
+    user->input();
 
-    delete user; 
+    delete user;
     return 0;
 }
-
